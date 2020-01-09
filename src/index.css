@@ -1,0 +1,14 @@
+body{
+  font-family: 'Poppins' !important;
+
+}
+
+.message__form {
+  position: fixed !important;
+  bottom: -2em;
+  margin-left: 200px !important;
+  left: 1em;
+  right: 1em;
+  /* top : 2em; */
+  z-index: 200;
+}
